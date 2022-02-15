@@ -1,5 +1,5 @@
 # front-challenge
-Uma página estática construída com HTML, CSS e JavaScript para o teste de Front-end da inChurch.
+Uma página estática construída com HTML, CSS(Arquitetura BEM) e JavaScript para o teste de Front-end da inChurch.
 
 ## Como rodar o projeto
 Vá na página inical do projeto clique em *code* e em seguida *Download ZIP*. Após baixar o projeto em sua máquina, execute o arquivo *index.html* no navegador.
