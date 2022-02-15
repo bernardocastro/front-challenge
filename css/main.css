@@ -47,7 +47,7 @@ body {
 	color: #223744;
 }
 
-.main--wrapper {
+.main__wrapper {
 	max-width: 1125px;
 	margin: 0 auto;
 }
@@ -187,7 +187,7 @@ body {
 	width: 92px;
 }
 
-.row--sm {
+.row__sm {
 	background-color: #000000;
 	margin-left: 17px;
 	height: 1px;
@@ -331,7 +331,7 @@ footer {
 		margin-bottom: 20px;
 	}
 
-	.card__2--wrapper {
+	.card__2__wrapper {
 		width: 100%;
 	}
 
